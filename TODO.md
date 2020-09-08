@@ -5,6 +5,7 @@
 - Add images to the back of home.html
   - Logo at the top
   - Rolling photos parallax effect
+    - Temporary fix with colored background.
   - Have Cassie Send you more photos 
   - Get a cover photo of cassie herself
 - Look at other photography pages to decide information

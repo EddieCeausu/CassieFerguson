@@ -83,8 +83,9 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background: rgb(182,91,46);
+		background: radial-gradient(circle, rgba(182,91,46,1) 0%, rgba(55,41,4,1) 100%);
+		/* background-image: url("images/overlay.png"), url("../../images/bg.jpg"); */
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
@@ -94,7 +95,7 @@ input, select, textarea {
 		line-height: 1.75em;
 		font-weight: 300;
 		letter-spacing: 1px;
-		color: #3a3939;
+		/* color: #3a3939; */
 		text-shadow: 0 0 0.5px rgba(58, 57, 57, 0.25);
 		-webkit-text-stroke: 0.25px;
 	}
@@ -2086,12 +2087,12 @@ input, select, textarea {
 
 	#banner {
 		position: relative;
-		color: #fff;
+		color: #000;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #35b88f url("images/banner.svg") bottom center no-repeat;
+		background: #fff url("images/banner.svg") bottom center no-repeat;
 		padding: 5em 0 5em 0;
-		margin: 0;
+		margin: 1em;
 		background-size: 125% auto;
 	}
 
@@ -2354,8 +2355,10 @@ input, select, textarea {
 		/* Basic */
 
 			body {
-				background-color: #203936;
-				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
+				background: rgb(182,91,46);
+				/* background: radial-gradient(circle, rgba(182,91,46,1) 0%, rgba(55,41,4,1) 100%); */
+				/* background-color: #203936;
+				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg"); */
 				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
