@@ -1,11 +1,11 @@
 - Organize File structure to support two seperate templates
- - Rename CSS files
- - Rename JS files
- - Rename Assests Folder
+  - Rename CSS files
+  - Rename JS files
+  - Rename Assests Folder
 - Add images to the back of home.html
- - Logo at the top
- - Rolling photos parallax effect
- - Have Cassie Send you more photos
- - Get a cover photo of cassie herself
+  - Logo at the top
+  - Rolling photos parallax effect
+  - Have Cassie Send you more photos 
+  - Get a cover photo of cassie herself
 - Look at other photography pages to decide information
 - Create pricing pages
