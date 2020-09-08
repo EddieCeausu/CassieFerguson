@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background: rgb(182,91,46);
-		background: radial-gradient(circle, rgba(182,91,46,1) 0%, rgba(55,41,4,1) 100%);
+		/* background: radial-gradient(circle, rgba(182,91,46,1) 0%, rgba(55,41,4,1) 100%); */
 		/* background-image: url("images/overlay.png"), url("../../images/bg.jpg"); */
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -216,6 +216,67 @@ input, select, textarea {
 	br.clear {
 		clear: both;
 	}
+
+
+/* Overlay */
+	
+@-moz-keyframes overlay {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+@-webkit-keyframes overlay {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+@-ms-keyframes overlay {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes overlay {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+.overlay {
+	-moz-animation: overlay 0.35s 0.35s forwards;
+	-webkit-animation: overlay 0.35s 0.35s forwards;
+	-ms-animation: overlay 0.35s 0.35s forwards;
+	animation: overlay 0.35s 0.35s forwards;
+	background-attachment: fixed, fixed;
+	background-image: url("images/overlay.png");
+	background-position: top left, center center;
+	background-repeat: repeat, no-repeat;
+	background-size: auto, cover;
+	height: 100%;
+	left: 0;
+	opacity: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
 
 /* Container */
 
