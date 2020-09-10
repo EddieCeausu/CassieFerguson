@@ -10,3 +10,13 @@
   - Get a cover photo of cassie herself
 - Look at other photography pages to decide information
 - Create pricing pages
+  - Wedding $500
+  - Engagement - $100 full session 2 outfits changes
+  - Lifestyle - $60 mini 
+  - Family - $80
+  - Graduation - $ 80 (just cap/gown $70)
+- Dropdown Menu: 
+  - Home
+  - Investment (Pricing page)
+  - Portfolio
+  - Contact :)

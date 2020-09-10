@@ -1541,6 +1541,9 @@ input, select, textarea {
 	.row > section, .row > article {
 		margin-bottom: 0;
 	}
+	#Schedule a {
+		text-decoration: none !important;
+	}
 
 /* Image */
 
