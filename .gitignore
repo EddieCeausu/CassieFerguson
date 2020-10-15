@@ -8,6 +8,6 @@ ehthumbs.db
 Thumbs.db
 
 # VSCode files #
-.workspace
+.code-workspace
 .save
 
