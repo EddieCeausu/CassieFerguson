@@ -1,13 +1,3 @@
-- Organize File structure to support two seperate templates
-  - Rename CSS files
-  - Rename JS files
-  - Rename Assests Folder
-- Add images to the back of home.html
-  - Logo at the top
-  - Rolling photos parallax effect
-    - Temporary fix with colored background.
-  - Have Cassie Send you more photos 
-  - Get a cover photo of cassie herself
 - Look at other photography pages to decide information
 - Create pricing pages
   - Wedding $500
@@ -20,3 +10,6 @@
   - Investment (Pricing page)
   - Portfolio
   - Contact :)
+- Fix Contact form with:
+  - Email: (423) 367-7080
+  - Phone Number: poyntersisters@gmail.com
